@@ -1,0 +1,13 @@
+{
+  "author": "Rick Sherman",
+  "dependencies": [],
+  "license": "Apache-2.0",
+  "name": "rsherman-puppet_bird",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.com/shermdog/puppet-bird",
+  "summary": "Configuration for BIRD Internet Routing Daemon",
+  "tags": [],
+  "version": "0.0.1"
+}

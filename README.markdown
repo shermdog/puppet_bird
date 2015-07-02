@@ -1,0 +1,3 @@
+# puppet_bird #
+
+This is the puppet_bird module. It provides...
